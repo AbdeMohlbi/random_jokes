@@ -22,3 +22,9 @@ State Management: The app uses state management techniques such as Provider or B
 Persistent Storage: User preferences and saved jokes are stored securely on the device using local storage, allowing for quick retrieval and a personalized user experience.
 
 Responsiveness: The app is designed to be responsive and adaptable to different screen sizes and orientations, ensuring a consistent and visually appealing experience on various devices.
+
+Attention:
+
+The code may appear complex at first glance. I've incorporated new Dart 3 features, such as sealed classes, alongside the tried-and-true InheritedWidget. It's important to note that this code is a work in progress, and I'm actively working on expanding its functionality.
+
+i will try to make updates daily to this project 
