@@ -28,3 +28,5 @@ Attention:
 The code may appear complex at first glance. I've incorporated new Dart 3 features, such as sealed classes, alongside the tried-and-true InheritedWidget. It's important to note that this code is a work in progress, and I'm actively working on expanding its functionality.
 
 i will try to make updates daily to this project 
+
+ chat gpt can't understand this code because dart 3 was released after 2021 plus the the new switchexpression was defined early this year XD
