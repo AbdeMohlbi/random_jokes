@@ -1,5 +1,5 @@
 #  random_jokes
-## Description[https://api.nationalize.io/?name]:
+## [Description](https://api.nationalize.io/?name):
 
 Introducing the Flutter Joke App, a meticulously crafted mobile application engineered to infuse moments of humor and laughter into the lives of its users. This exemplary application harnesses the immense capabilities of the Flutter framework, providing a seamless and delightful user experience like no other.
 
